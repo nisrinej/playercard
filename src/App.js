@@ -1,10 +1,10 @@
 import './App.css';
-import playerList from './playerList';
+import PlayerList from './playerList';
 
 function App(){
   return (
     <>
-    <playerList/>
+    <PlayerList/>
     </>
   )
 }
